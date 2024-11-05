@@ -4,9 +4,12 @@ body{
 }    
 
 section{
-    background-color: rgb(166, 161, 161);
+    background-color: rgba(143, 133, 133, 0.33);
     padding-top: 80px;
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+header{
+    margin: 40px;
 }
