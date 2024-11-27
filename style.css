@@ -32,6 +32,6 @@ margin-right: 5%;
 }
 
 .categoria-videos img:hover {
-    border: 5px solid rgb(18, 17, 18);
+    border: 5px solid rgba(156, 232, 213, 0.215);
     opacity: 1.0;
 }
